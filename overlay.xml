@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[haneta_local]]></name>
+    <description lang="en"><![CDATA[haneta's local overlay]]></description>
+    <homepage>https://localhost</homepage>
+    <owner type="person">
+      <email>syotaa1@gmail.com</email>
+      <name><![CDATA[haneta]]></name>
+    </owner>
+    <source type="rsync">file:///usr/local/portage</source>
+  </repo>
+</repositories>
