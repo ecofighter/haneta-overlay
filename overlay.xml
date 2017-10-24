@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
-<repositories xmlns="" version="1.0">
-  <repo quality="experimental" status="unofficial">
-    <name><![CDATA[haneta]]></name>
-    <description lang="en"><![CDATA[haneta's local overlay]]></description>
-    <homepage>https://localhost</homepage>
-    <owner type="person">
+
+<repositories version="1.0">
+  <repo priority=50 quality="experimental" status="unofficial">
+    <name>haneta-overlay</name>
+    <description>haneta's overlay</description>
+    <homepage>https://github.com/ecofighter/haneta-overlay</homepage>
+    <owner>
       <email>syotaa1@gmail.com</email>
-      <name><![CDATA[Shota Arakaki]]></name>
     </owner>
-    <source type="git">https://github.com/ecofighter/haneta-overlay</source>
+    <source type="git">https://github.com/ecofighter/haneta-overlay.git</source>
   </repo>
 </repositories>
