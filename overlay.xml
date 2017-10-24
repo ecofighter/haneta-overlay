@@ -9,6 +9,6 @@
       <email>syotaa1@gmail.com</email>
       <name><![CDATA[Shota Arakaki]]></name>
     </owner>
-    <source type="git">file:///usr/local/portage</source>
+    <source type="git">https://github.com/ecofighter/haneta-overlay</source>
   </repo>
 </repositories>
